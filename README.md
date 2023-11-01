@@ -2,8 +2,6 @@
 
 A client library for the Jamf Pro APIs and webhooks.
 
-This is Tony's repo
-
 ```python
 from jamf_pro_sdk import JamfProClient, BasicAuthProvider
 
